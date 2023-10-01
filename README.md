@@ -1,5 +1,4 @@
 # BharatIntern-Task1-ContentManagementTool
-# BharatIntern-Task1-ContentManagementTool
 
 You can use the full stack development items and other
 drag-and-drop interfaces to create a
